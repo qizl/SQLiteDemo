@@ -1,0 +1,11 @@
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.exe.config
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.exe
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.pdb
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\obj\x86\Debug\SQLiteDemo.csprojResolveAssemblyReference.cache
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\obj\x86\Debug\SQLiteDemo.exe
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\obj\x86\Debug\SQLiteDemo.pdb
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\bin\Debug\EntityFramework.dll
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\bin\Debug\System.Data.SQLite.EF6.dll
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\bin\Debug\System.Data.SQLite.Linq.dll
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\bin\Debug\System.Data.SQLite.EF6.pdb
+E:\PL\MyProjects\SVN\SQLite\trunk\src\SQLiteDemo\SQLiteDemo\bin\Debug\System.Data.SQLite.Linq.pdb
